@@ -1,7 +1,7 @@
 branchName: '${issue.number}'
 branches:
- - label: '*'
-   prefix: feature#
  - label: bug
    prefix: bug#
+ - label: '*'
+   prefix: feature#
 autoCloseIssue: true
